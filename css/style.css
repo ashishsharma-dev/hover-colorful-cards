@@ -52,8 +52,8 @@ body {
 }
 
 @media screen and (max-width:600px){
-    .content {
-          transform: scale(0.2);
+    .content h1 {
+          font-size: 40px;
     }
 }
 
