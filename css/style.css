@@ -51,5 +51,10 @@ body {
     background: linear-gradient(to bottom, #ff7675, #fab1a0, #ffeaa7);
 }
 
+@media screen and (min-width:600px){
+    .content h1 {
+          font-size: 40px;
+    }
+}
 
 
